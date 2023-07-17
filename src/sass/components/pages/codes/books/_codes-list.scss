@@ -1,5 +1,7 @@
 .codes-list {
   display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
   align-content: space-between;
   &__item {
     display: flex;
@@ -14,9 +16,9 @@
     border: 1px solid var(--grey-color);
     border-radius: 5px;
   }
-  &__item:not(:last-child) {
-    margin-right: 22px;
-  }
+  // &__item:not(:last-child) {
+  //   margin-right: 22px;
+  // }
 
   &__img-thumbs {
     margin-bottom: 10px;
