@@ -87,7 +87,7 @@ const imgEll = codes
         <a class="codes-list__link link-no-decor" href="">
           <img
             class="codes-list__img-thumbs img-thumbs"
-            src='${codes.url}'
+            src="./images/codes/book/thumbs-casu.jpg"
             alt='${codes.title}';
           />
           <h3 class="codes-list__name">${codes.title}</h3>
