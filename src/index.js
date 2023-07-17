@@ -20,7 +20,7 @@ const codes = [
         pages_q: 360,
         information: "",
         price: 300.00,
-        url: './images/codes/book/thumbs-cc.jpg'
+        url: 'http://libcenter.com/images/anons.jpg'
     },
     {
         title: "Кримінальний процесуальний кодекс України",

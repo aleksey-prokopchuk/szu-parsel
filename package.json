@@ -5,7 +5,7 @@
   "homepage": "https://github.com/aleksey-prokopchuk/szu-parsel",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /szu-parsel/"
   },
   "repository": {
     "type": "git",
